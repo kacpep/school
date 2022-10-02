@@ -1,8 +1,6 @@
-
 # School Projects 🏫🎒
 
-A brief description of what this project does and who it's for
-
+For teachers and classmates
 
 ## Author 🤔
 
