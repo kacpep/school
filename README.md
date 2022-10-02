@@ -2,6 +2,10 @@
 
 For teachers and classmates
 
+## Links for projects
+
+ - [cheerfulNumber](https://kacpep.github.io/school/cheerfulNumber/)
+
 ## Author 🤔
 
 - [@kacpep](https://www.github.com/kacpep)
