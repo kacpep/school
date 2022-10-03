@@ -4,7 +4,7 @@ For teachers and classmates
 
 ## Links for projects
 
- - [cheerfulNumber](https://kacpep.github.io/school/cheerfulNumber/)
+ - [happyNumber](https://kacpep.github.io/school/happyNumber/)
 
 ## Author 🤔
 
