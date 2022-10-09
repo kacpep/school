@@ -5,6 +5,7 @@ For teachers and classmates
 ## Links for projects
 
  - [happyNumber](https://kacpep.github.io/school/happyNumber/)
+ - [attainableNumber](https://kacpep.github.io/school/attainableNumber/)
 
 ## Author 🤔
 
