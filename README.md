@@ -2,10 +2,12 @@
 
 For teachers and classmates
 
-## Links for projects
+## Links for projects (live)
 
  - [happyNumber](https://kacpep.github.io/school/happyNumber/)
  - [attainableNumber](https://kacpep.github.io/school/attainableNumber/)
+ - [hypothesisGoldbacha](https://kacpep.github.io/school/hypothesisGoldbacha/)
+
 
 ## Author 🤔
 
